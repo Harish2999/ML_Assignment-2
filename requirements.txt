@@ -4,4 +4,6 @@ matplotlib
 seaborn
 ucimlrepo
 sklearn
+scikit-learn
 xgboost
+
