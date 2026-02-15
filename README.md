@@ -62,9 +62,3 @@ Data: Pandas, NumPy
 Deployment: Streamlit Community Cloud
 
 ---
-
-**Completed on BITS Virtual Lab**  
-**Screenshot in submission PDF**  
-**Harish Kumar K | 2025AB05008**
-
----
