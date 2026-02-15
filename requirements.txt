@@ -1,9 +1,8 @@
+streamlit
+joblib
 numpy
 pandas
-matplotlib
-seaborn
-ucimlrepo
-scikit-learn
-xgboost
+scikit-learn==1.6.1
+xgboost==2.0.3
 
 
